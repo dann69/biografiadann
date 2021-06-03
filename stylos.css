@@ -1,0 +1,39 @@
+.titulo
+{
+    font:size 38cm;
+    color:rgb(12, 26, 26);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background: rgb(114, 171, 245);
+    padding: 10px;
+}
+
+.menu{
+    color:rgb(33, 20, 105);
+    background-color:rgb(rgb(196, 67, 174), rgb(2, 248, 187), rgb(232, 181, 252)) ;
+    padding: 5px;
+}
+
+.fondo{
+    font-size:  16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(234, 74, 240);
+    text-align: justify;
+    
+}
+.img{
+display:flex;
+width: 200px;
+height:200px;
+justify-content: left;
+}
+header, section, nav, footer,article,aside{
+    border: 1px solid rgb(1, 2, 5);
+    display: block;
+
+}
+.Fondo-principal{
+    background-color:rgb(101, 202, 219);
+    width: 980px;
+    margin:50px auto;
+}
